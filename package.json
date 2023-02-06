@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "read_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Inna Karpasas",
+  "license": "ISC"
+}
